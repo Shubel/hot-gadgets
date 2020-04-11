@@ -1,0 +1,55 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+.see-all{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    text-align: center;
+}
+.cat1{
+    text-align: center;
+}
+.cat2{
+    box-shadow: 5px 5px 10px lightgray;
+    margin: auto;
+    border-radius: 10px;
+    padding: 50px;
+}
+.cat3{
+    box-shadow: 5px 5px 10px lightgray;
+    margin: auto;
+    border-radius: 10px;
+    padding: 50px;
+}
+.cat4{
+    box-shadow: 5px 5px 10px lightgray;
+    margin: auto;
+    border-radius: 10px;
+    padding: 50px;
+}
+.perfume{
+    text-align: center;
+}
+.shoe{
+    text-align: center;
+}
+.underline{
+    text-decoration: none;
+    border-bottom: 4px solid rgb(255, 196, 0)
+    
+}
